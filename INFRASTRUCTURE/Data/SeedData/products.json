@@ -1,0 +1,207 @@
+[
+  {
+    "Name": "acer aspire 3",
+    "Price": 8000.00,
+    "listing": 9000.00,
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "Photos": [
+      {
+        "imageUrl": "images/products/acer-1.png",
+        "isMain": true
+      },
+      {
+        "imageUrl": "images/products/acer-2.png",
+        "isMain": false
+      },
+
+      {
+        "imageUrl": "images/products/acer-3.png",
+        "IsMain": false
+      }
+    ]
+
+  },
+
+  {
+    "Name": "Acer Predator Helios 300 PH315",
+    "Price": 25000.00,
+    "listing": 30000.00,
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "Photos": [
+      {
+        "imageUrl": "images/products/predator-3.png",
+        "isMain": true
+      },
+      {
+        "imageUrl": "images/products/predator-2.png",
+        "isMain": false
+      },
+
+      {
+        "imageUrl": "images/products/predator-1.png",
+        "IsMain": false
+      }
+    ]
+
+  },
+
+  {
+    "Name": "MSI GF63",
+    "Price": 18000.00,
+    "listing": 22000.00,
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "Photos": [
+      {
+        "imageUrl": "images/products/msi-1.png",
+        "isMain": true
+      },
+      {
+        "imageUrl": "images/products/msi-2.png",
+        "isMain": false
+      }
+    ]
+
+  },
+
+  {
+    "Name": "Samsung Galaxy S10",
+    "Price": 9000.00,
+    "listing": 10000.00,
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "Photos": [
+      {
+        "imageUrl": "images/products/galaxy-1.png",
+        "isMain": true
+      },
+      {
+        "imageUrl": "images/producs/galaxy-2.png",
+        "isMain": false
+      }
+    ]
+
+  },
+
+  {
+    "Name": "Samsung Galaxy S20",
+    "Price": 18000.00,
+    "listing": 20000.00,
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "Photos": [
+      {
+        "imageUrl": "images/products/galaxy-20.png",
+        "isMain": true
+      }
+    ]
+
+  },
+
+  {
+    "Name": "Samsung S24e510c Curved",
+    "Price": 5000.00,
+    "listing": 6000.00,
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "Photos": [
+      {
+        "imageUrl": "images/products/samsung-monitor-1.png",
+        "isMain": true
+      }
+    ]
+
+  },
+
+  {
+    "Name": "Msi Optix G27c2 27 curved",
+    "Price": 6000.00,
+    "listing": 7000.00,
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "Photos": [
+      {
+        "imageUrl": "images/products/msi-monitor-1.png",
+        "isMain": true
+      }
+    ]
+
+  },
+
+  {
+    "Name": "Huawei P30 Lite",
+    "Price": 6000.00,
+    "listing": 7000.00,
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "Photos": [
+      {
+        "imageUrl": "images/products/huawei-1.png",
+        "isMain": true
+      },
+      {
+        "imageUrl": "images/products/huawei-2.png",
+        "isMain": false
+      }
+    ]
+
+  },
+
+  {
+    "Name": "Samsung  Galaxy watch 42mm",
+    "Price": 3000.00,
+    "listing": 4000.00,
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "Photos": [
+      {
+        "imageUrl": "images/products/smart-1.png",
+        "isMain": true
+      }
+    ]
+
+  },
+
+  {
+    "Name": "Samsung 82 inch UHDTV",
+    "Price": 38000.00,
+    "listing": 40000.00,
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "Photos": [
+      {
+        "imageUrl": "images/products/tv-1.png",
+        "isMain": true
+      }
+    ]
+
+  },
+
+  {
+    "Name": "Samsung 65 inch UHDTV",
+    "Price": 13000.00,
+    "listing": 15000.00,
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "Photos": [
+      {
+        "imageUrl": "images/products/tv-2.png",
+        "isMain": true
+      }
+    ]
+
+  }
+]
