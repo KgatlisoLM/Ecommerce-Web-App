@@ -29,8 +29,12 @@
  
  --------------------------- VS CODE --------------------------------------------
  
- on vs code Terminal copy paste code :- dotnet ef migrations initialCreate --project Infrastructure 
+ on vs code Terminal copy paste code :- dotnet ef migrations initialCreate --project Infrastructure
+ 
  once migration is done 
+ 
  copy paste code on Terminal := update-database 
+ 
  once its done 
+ 
  copy paste code:- dotnet watch run 
