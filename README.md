@@ -1,7 +1,7 @@
 # Ecommerce-Web-App 
  step one: to run the project you will either download visual studio or vs code.
  
-  -------------------------- SHOULD YOU CHOOSE VS CODE ----------------------------
+  ---------------------------------------------------- SHOULD YOU CHOOSE VS CODE --------------------------------------------------------------------------------
     MAKE SURE YOUR COMPUTER IS CONFIGURED TO RUN .NET CORE PROJECTS   
   ---------------- ----------------------------------------------------------------
  
