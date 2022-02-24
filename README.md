@@ -40,3 +40,9 @@
  once its done 
  
  copy paste code:- dotnet watch run 
+
+
+
+![electro00](https://user-images.githubusercontent.com/39485154/155523598-ae4649a0-ea4a-438f-935e-1c02efc9346d.PNG)
+![ecom01](https://user-images.githubusercontent.com/39485154/155523626-0efb63b3-33d7-4595-aa2b-77d8b8b3e289.PNG)
+![ecom02](https://user-images.githubusercontent.com/39485154/155523637-973817d3-1329-4859-ad4d-edcc302d7a30.PNG)
